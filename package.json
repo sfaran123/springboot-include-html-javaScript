@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "apexcharts": "^3.36.3",
+    "moment": "^2.29.4"
+  }
+}
